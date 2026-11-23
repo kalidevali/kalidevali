@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm K Ali
 
-<!--
-**kalidevali/kalidevali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I fix and build the parts of web apps that usually go wrong: payments, logins and AI features.
 
-Here are some ideas to get you started:
+**Stripe subscriptions and webhooks** in your Laravel app: [see gig](https://www.fiverr.com/kaosar662/integrate-stripe-subscriptions-and-webhooks-in-your-laravel-app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Google login (OAuth)** for React or Laravel apps: [see gig](https://www.fiverr.com/kaosar662/add-google-login-oauth-to-your-react-or-laravel-app)
+
+**AI image and video generation** in your app: [see gig](https://www.fiverr.com/kaosar662/integrate-ai-image-and-video-generation-flux-veo-kling-in-your-app)
+
+**A custom AI image or video generator web app**: [see gig](https://www.fiverr.com/kaosar662/build-a-custom-ai-image-or-video-generator-web-app)
+
+**Hire me on Fiverr:** [fiverr.com/kaosar662](https://www.fiverr.com/kaosar662)
